@@ -2,6 +2,6 @@
 
 ## DecisionTreeClassifier to predict customer churn
 
-## Nueral Networks
+## A simple Neural Networks for predicting customer purchase behaviour based on 2 features: website visiting time and number of pages visited
 
 ##
