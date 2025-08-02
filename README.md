@@ -9,6 +9,8 @@
 
 ### Use kmeans clustering to cluster vehicles based on their specifications (unsupervised learning)
 
+## Machine learning Approach
+
 ## DecisionTreeClassifier to predict customer churn
 
 
