@@ -11,10 +11,10 @@
 
 ## Machine learning Approach
 
-## DecisionTreeClassifier to predict customer churn
+### DecisionTreeClassifier to predict customer churn
 
 
-## A simple Neural Networks for predicting customer purchase behaviour based on 2 features: website visiting time and number of pages visited (binary classification problem)
+### A simple Neural Networks for predicting customer purchase behaviour based on 2 features: website visiting time and number of pages visited (binary classification problem)
 1. generate synthetic data
 2. preprocess the data: split the data
 3. build and train the neural network
